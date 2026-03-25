@@ -8,7 +8,7 @@
 
 - 🚀 Full Stack Developer & DevOps Enthusiast
 - 🌐 Website & Web App Developer
-- 🐍 Python & DevOps Programming (CodeAlpha Tasks)
+- 🐍 Python & DevOps Programming 
 - ⚛️ JavaScript & HTML Frontend/Backend Developer
 - 💼 Working on Real-World Projects (MGS 2.0, Cafe Backend)
 - ☁️ Always building and learning new technologies
