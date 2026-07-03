@@ -25,7 +25,6 @@
 
 | Project | Description |
 |---|---|
-| **Mera Ghar Sansaar 2.0** | Modern Web App landing page (HTML/CSS) |
 | **Cafe Backend** | Cafe Management Backend API (JavaScript) |
 | **SMS** | Student/School Management System (JavaScript) |
 | **CodeAlpha Task** | DevOps and Python programming projects |
